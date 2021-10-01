@@ -68,3 +68,7 @@ Or,
 2. Import the project in Android Studio
 3. Generate your own Google Maps API key and Mapbox API key and add it to project in strings.xml (these locations are properly commented in the project)
 4. Deploy the app to your Android device and viola... you are good to go!
+
+### Thank You! PRs are always welcomed!
+
+Stay safe!
